@@ -1,0 +1,1 @@
+SELECT * FROM Olist_db.order_reviews_table;
