@@ -79,14 +79,12 @@ Churn is defined based on customer purchase inactivity. The analysis looks at wh
 
 ## Tools
 
-<!-- Update this list to match what you actually used -->
 - SQL
 - Python (pandas, matplotlib/seaborn, scikit-learn)
 - Jupyter Notebook
 
 ## Key Findings
 
-<!-- Add your headline insights here, for example: -->
 - _Share of customers in each RFM segment and their contribution to revenue_
 - _Repeat purchase rate and main churn drivers_
 - _Notable delivery or review patterns_
